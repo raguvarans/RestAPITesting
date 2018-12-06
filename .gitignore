@@ -1,0 +1,9 @@
+target
+build
+.gradle
+.classpath
+.project
+sever.log*
+.settings
+.env
+.DS_Store
